@@ -19,4 +19,4 @@
 2. Скачайте репозиторий:
 
    ```bash
-   git clone https://github.com/ваш-username/название-репозитория.git
+   git clone https://github.com/senorfrancesco/password_analysis
